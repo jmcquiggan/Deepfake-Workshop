@@ -1,6 +1,6 @@
 # Installing and running yt-dlp
 
-**Lab reference — ISC2 Central Florida Chapter**
+**Lab reference **
 *Ripping video and audio separately for the Don't Believe Your Eyes labs*
 
 > **Scope — read before you run anything**
