@@ -1,0 +1,6 @@
+YT-DLP Scripts
+
+https://www.youtube.com/watch?v=0UktfZN2NP0
+List Formats - yt-dlp -F "https://www.youtube.com/watch?v=0UktfZN2NP0"
+Download Video - yt-dlp --download-sections "*00:18:31-00:19:31" -f 136 "https://www.youtube.com/watch?v=0UktfZN2NP0"
+Downolad Audio - yt-dlp --download-sections -f 140 "https://www.youtube.com/watch?v=0UktfZN2NP0"
