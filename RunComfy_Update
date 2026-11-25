@@ -1,0 +1,26 @@
+Because Mimic PC is no longer accepting new accounts, the workshop has transitioned to the RunComfy platform. 
+The following steps outline how to set up and execute the required workflows in this new environment.
+
+Account Setup: 
+Navigate to the RunComfy platform. (runcomfy.com)
+Create an account
+Confirm your registration via email
+Once on the platform, setup a username to enter the environment.
+
+Funding: Select the "pay as you go" plan. 
+Add a minimum of $10 to your account to cover the workshop resources.
+For what we're doing, this should provide anywhere from 5 to 10 hours depending on the configuration you select.
+
+Launching Workflows: 
+Use this link to access the preconfigured environment
+https://www.runcomfy.com/comfyui-workflows/my-workflows?shared_workflow=3d9034fe-27f4-8f82-7286-abfe0d01e77e
+Select "Run this workflow" (the Medium/16GB option is sufficient, but you can select a larger configuration)
+Set a machine stop timer to manage resource usage, usually 15 minutes for each lab and launch the environment
+
+Execution: 
+Wait 3-5 minutes for the environment to load. 
+For Lab1 - it will have an audio error, this is because the original file is not available. 
+That's fine as you upload your own audio file (created via yt-dlp) to use with the various nodes.
+ 
+Finishing:
+When finished, click "Stop" on the top menu bar to end the session.
